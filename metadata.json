@@ -1,0 +1,6 @@
+{
+  "name": "Resume Classic",
+  "description": "RAG Document Q&A application for analyzing resumes, financial reports, and textbooks with vector search and AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
